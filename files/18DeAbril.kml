@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>18 de abril</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Paty Yrys
+</name>
+      <description>Privada rio hondo Casa 17</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.2624664,19.3507368,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lorenza Dávila
+</name>
+      <description>Callejón Atlamaya 53b Interior 1</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1983182,19.3463723,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Samantha
+</name>
+      <description>Calle Pitágoras 349 int 1</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1575626,19.3966162,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jazmina
+</name>
+      <description>Gral. Pedro Antonio de Los Santos 44  int 2</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1814717,19.4146736,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brenda Islas
+</name>
+      <description>Río Danubio 119 int 10</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.167682,19.4297352,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carlos Estrada
+</name>
+      <description>Bahía de San Hipólito 43</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1763261,19.4404161,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alberto Mercado
+</name>
+      <description>Cto. Interior Melchor Ocampo 283</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.172218,19.4329328,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lise Castillo
+</name>
+      <description>Be Grand Alto Polanco Tower 1 dpto 2011</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1832234,19.4399234,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DJ Delmy
+</name>
+      <description>Juan de la Barrera 32 int 403</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1736318,19.415588,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Andrea Gillesen
+</name>
+      <description>Tabasco 324 int 501</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1679914,19.417333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Andrea Valencia
+</name>
+      <description>Calle Gob.Protasio Tagle 84 int 302</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1839264,19.4121783,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Adriana Mendiola</name>
+      <description>Nicolás San Juan 910</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1621779,19.3857846,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Claudia
+</name>
+      <description>Calle Gobernador Gregorio V. Gelati 99 int 702</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1889939,19.4125385,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orson Esquivel
+</name>
+      <description>Nayarit 8 Bis Roma Sur</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1609893,19.409944,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fernanda Cuevas
+</name>
+      <description>Coahuila 159 int 206</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1633655,19.4112713,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vanessa Reynal
+</name>
+      <description>Boston 126</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1813803,19.3793824,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Michelle Tschiporikov</name>
+      <description>Giorgione 37 int D</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1856526,19.3836941,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carla Vergara</name>
+      <description>Dallas 53 int 5</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1759206,19.39753,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arely Miranda
+</name>
+      <description>Calle Liverpool 45</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1578873,19.4270522,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sara Itzel
+</name>
+      <description>Calle Dinamarca 50</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1582668,19.4276362,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Karmen Castañeda
+</name>
+      <description>Patriotismo 470 Casa 8</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -99.2144548,19.4306871,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
